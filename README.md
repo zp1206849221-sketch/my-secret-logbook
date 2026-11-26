@@ -1,6 +1,6 @@
 [![make.fun bounty](https://make.fun/badge/u-email-baru-my-secret-logbook-cc177449.svg)](https://make.fun/bounty/u-email-baru-my-secret-logbook-cc177449?utm_source=github&utm_medium=readme&utm_campaign=my-secret-logbook)
 [![rank](https://make.fun/badge/u-email-baru-my-secret-logbook-cc177449/zp1206849221-sketch/my-secret-logbook/rank.svg)](https://make.fun/bounty/u-email-baru-my-secret-logbook-cc177449?utm_source=github&utm_medium=readme&utm_campaign=my-secret-logbook)
-[![reward](https://make.fun/badge/u-email-baru-my-secret-logbook-cc177449.svg)](https://make.fun/bounty/u-email-baru-my-secret-logbook-cc177449?utm_source=github&utm_medium=readme&utm_campaign=my-secret-logbook)
+[![reward](https://make.fun/badge/u-email-baru-my-secret-logbook-cc177449/zp1206849221-sketch/my-secret-logbook/reward.svg)](https://make.fun/bounty/u-email-baru-my-secret-logbook-cc177449?utm_source=github&utm_medium=readme&utm_campaign=my-secret-logbook)
 
 # My Secret Logbook
 
